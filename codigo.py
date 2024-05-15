@@ -55,7 +55,7 @@ for linha in tabela.index:
     pyautogui.press("tab")
     pyautogui.write(str(tabela.loc[linha, "custo"]))
     pyautogui.press("tab")
-    obs = (str(tabela.loc[linha, "obs"])) -> variável 'obs'
+    obs = (str(tabela.loc[linha, "obs"]))
     if obs != "nan":
         pyautogui.write(obs) 
     pyautogui.press("tab")
