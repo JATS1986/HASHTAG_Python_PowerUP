@@ -1,0 +1,17 @@
+codigo,marca,tipo,categoria,preco_unitario,custo,obs
+MOLO000251,Logitech,Mouse,1,25.95,6.50,
+MOLO000192,Logitech,Mouse,2,19.95,5.00,
+CAHA000251,Hashtag,Camisa,1,25.00,11.00,
+CAHA000252,Hashtag,Camisa,2,25.00,11.00,Conferir estoque
+BOHA000251,Hashtag,Bone,1,25.00,11.00,
+BOHA000252,Hashtag,Bone,2,25.00,11.00,Troca de fornecedor
+TELG000821,LG,Televisao,1,820.00,172.20,
+TELG000252,LG,Televisao,2,250.00,62.50,
+REGA000722,Garmin,Relogio,2,720.00,187.20,
+REXI000463,Xiaomi,Relogio,3,46.40,11.60,
+CEAP000133,Apple,Celular,3,1399.00,377.70,
+CEAP000154,Apple,Celular,4,1599.00,367.80,
+NODE000441,Dell,Notebook,1,448.00,134.40,
+NODE000512,Dell,Notebook,2,512.00,107.50,
+ACSA0001410,Samsung,Acessorios,10,14.90,3.20,
+ACSA0001211,Samsung,Acessorios,11,12.50,2.80,
